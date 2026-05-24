@@ -1,0 +1,14 @@
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/bin/Debug/net10.0/Task 1
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/bin/Debug/net10.0/Task 1.deps.json
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/bin/Debug/net10.0/Task 1.runtimeconfig.json
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/bin/Debug/net10.0/Task 1.dll
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/bin/Debug/net10.0/Task 1.pdb
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.AssemblyInfoInputs.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.AssemblyInfo.cs
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.dll
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/refint/Task 1.dll
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.pdb
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/Task 1.genruntimeconfig.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/Homework5/Task 1/obj/Debug/net10.0/ref/Task 1.dll
